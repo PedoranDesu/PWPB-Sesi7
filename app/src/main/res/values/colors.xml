@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="GoFood">#B42333</color>
+    <color name="GoRide">#F8A91F</color>
+    <color name="GoSend">#8CC640</color>
+    <color name="GoMart">#3A9AD1</color>
+    <color name="GOJEK">#74DB00</color>
+</resources>
